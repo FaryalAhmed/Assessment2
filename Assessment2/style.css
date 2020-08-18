@@ -1,0 +1,30 @@
+.header {
+    background-color: #e0e0e0;
+}
+
+.header th {
+    width: 150px;
+    height: 35px;
+}
+
+input[type=checkbox] {
+    display: inline;
+}
+
+input[type=number] {
+    display: inline;
+    width: 50px;
+}
+
+td {
+    text-align: center;
+    padding: 10px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td.selected {
+    background-color: #f2f2f2;
+}
